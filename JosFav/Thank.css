@@ -1,0 +1,12 @@
+body{
+  background-image: url("images/thanksb.jpg");
+  background-position: center center;
+  background-attachment: fixed;
+  background-size:cover;
+  /* position: absolute; */
+ background-repeat: no-repeat;
+  z-index: -1; 
+}
+@media only screen and (max-width: 767px){
+
+}
